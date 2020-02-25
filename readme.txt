@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple.
-Git is easy to learn.
+Git is uneasy to learn.
